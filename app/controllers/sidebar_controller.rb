@@ -1,2 +1,0 @@
-class SidebarController < ApplicationController
-end
